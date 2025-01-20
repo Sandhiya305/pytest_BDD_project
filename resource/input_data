@@ -1,0 +1,16 @@
+lead_first_name = Sandhiya
+lead_last_name = M
+lead_company = Stay_Positive
+contact_last_name = Murugavel
+lead_convert_success_msg = Your lead has been converted
+
+#usecase 2
+new_account_name = Meena
+new_contact_first_name = Meena
+new_contact_last_name = murugavel
+new_opportunity_name = Circle
+opportunity_closing_date = 31/12/2024
+
+success_msg_contact = Open Meena murugavel Preview
+success_msg_opp = Open Circle Preview
+
